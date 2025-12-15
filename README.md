@@ -45,7 +45,6 @@ The app features a sophisticated theme system with:
 - Primary: Light Indigo (#818cf8)
 - Secondary: Light Purple (#a78bfa)
 - Background: Deep blues and grays
-- Text: Light grays for comfortable reading
 
 ### Features
 - **Automatic Persistence**: Theme preference saved to localStorage
