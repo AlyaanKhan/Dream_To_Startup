@@ -151,7 +151,6 @@ The app is fully responsive with breakpoints:
 
 ## 📄 License
 
-This project is licensed under the MIT License.
 
 ---
 
