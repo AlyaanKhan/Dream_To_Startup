@@ -1,4 +1,4 @@
-# 🌙 Dream to Startup Generator - Backend
+# 🌙 Dream to Startup Generator
 
 Flask backend with LangChain integration for analyzing dreams and generating startup ideas using OpenAI GPT-4.
 
